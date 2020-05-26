@@ -20,7 +20,7 @@ public class Edad {
 			}
 			
 			else if(edad<40) {
-				System.out.println("Eres joven");
+				System.out.println("Eres joven, pero no descontroles");
 			}
 			
 			else if(edad<65) {
