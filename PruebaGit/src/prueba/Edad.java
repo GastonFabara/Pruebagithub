@@ -30,7 +30,7 @@ public class Edad {
 			
 			else {
 				
-				System.out.println("Cuidate");
+				System.out.println("Cuidate, pero disfruta lo más que puedas");
 			}
 	}
 			
