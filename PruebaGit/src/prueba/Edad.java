@@ -11,12 +11,12 @@ public class Edad {
 
 			entrada = new Scanner(System.in);
 			
-			System.out.println("Introduza la edad que tiene actualmente, por favor:");
+			System.out.println("Hola, Introduza la edad que tiene actualmente, por favor:");
 			
 			int edad=entrada.nextInt();
 			
 			if (edad<18) {
-				System.out.println("Eres un adolescente");
+				System.out.println("Eres un adolescente, disfruta");
 			}
 			
 			else if(edad<40) {
