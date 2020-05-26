@@ -11,7 +11,7 @@ public class Edad {
 
 			entrada = new Scanner(System.in);
 			
-			System.out.println("Introduce tu edad, por favor");
+			System.out.println("Introduza la edad que tiene actualmente, por favor:");
 			
 			int edad=entrada.nextInt();
 			
@@ -25,7 +25,7 @@ public class Edad {
 			
 			else if(edad<65) {
 				
-				System.out.println("Eres maduro");
+				System.out.println("Eres maduro y muy sabio.");
 			}
 			
 			else {
